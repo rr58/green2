@@ -1,0 +1,11 @@
+2016-02-09 18:52:16,733 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: fi.yritys.sovellus:Softala1:0.0.1-SNAPSHOT @ C:\Users\X3\git\Softalaprojekti1_SWD4TN005\Softala1\pom.xml.
+2016-02-09 18:52:20,221 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Softala1/src/main/java
+2016-02-09 18:52:20,225 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Softala1/src/main/resources
+2016-02-09 18:52:20,226 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Softala1/src/test/java
+2016-02-09 18:52:20,227 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Softala1/src/test/resources
+2016-02-09 18:52:20,325 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: fi.yritys.sovellus:Softala1:0.0.1-SNAPSHOT @ C:\Users\X3\git\Softalaprojekti1_SWD4TN005\Softala1\pom.xml.
+2016-02-09 18:52:28,199 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: fi.yritys.sovellus:Softala1:0.0.1-SNAPSHOT @ C:\Users\X3\git\Softalaprojekti1_SWD4TN005\Softala1\pom.xml.
+2016-02-09 18:52:28,392 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-09 18:52:28,404 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-09 18:52:28,417 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-09 18:52:28,421 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+C:\Users\X3\git\Softalaprojekti1_SWD4TN005\.metadata\.plugins\org.eclipse.jdt.core
+3920116819.index

@@ -1,0 +1,6 @@
+INDEX VERSION 1.3+C:\Users\X3\git\Softalaprojekti1_SWD4TN005\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3380458461.index
+3920116819.index
+3557524878.index
+2442931039.index
+1435798017.index
